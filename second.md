@@ -1,1 +1,1 @@
-# second git repo bug fixed twice
+# second git repo bug fixed
